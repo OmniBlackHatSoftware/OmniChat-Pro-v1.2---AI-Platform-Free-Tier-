@@ -1,4 +1,4 @@
-║  ✅ Context Menu: 19+ items with CLICK-TO-EXPAND submenus  ║
+║  ✅ Context Menu: 19+ items with CLICK-TO-EXPAND submenus   ║
 ║  ✅ Swap Elements: Replace ANY element with media           ║
 ║  ✅ Layer Media: Video+Image+Audio+Code on ANY element      ║
 ║  ✅ LOCAL FILE SUPPORT: Upload from device for swap/layer   ║
